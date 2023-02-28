@@ -1,0 +1,5 @@
+﻿1,Maria,maria@gmail.com,3200.00
+2,Alex,alex@gmail.com,1900.00
+3,Marco,marco@gmail.com,1700.00
+4,Bob,bob@gmail.com,3500.00
+5,Anna,anna@gmail.com,2800.00
