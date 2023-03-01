@@ -47,7 +47,7 @@ namespace Employees
 			}
 
 			// All Employees already in the list.
-			// Let'a print same data.
+			// Let'a print some data.
 
 			Console.Write("Enter minimum salary (only numbers): ");
 			double minSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
